@@ -1,0 +1,104 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.head {
+  background-color: #FAF9F7;
+  gap: 100px;
+}
+
+.faozia{
+  display: flex;
+  gap: 100px;
+  justify-content: center;
+  margin-left: -120px;
+  }
+  
+  .navtext {
+    text-decoration: none;
+    color: black;
+    font-weight: bold !important;
+    font-size: 1.3em !important;
+  }
+
+.imghead {
+  width: 100%;
+  height: 530px;
+  
+}
+.imt1{
+margin-top: -350px;
+display: flex;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  font-size: 2.5em;
+}
+.imt2{
+  margin: 20px ;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  font-size: 1.2em;
+  }
+  .dclic {
+    font-size: 1.4em !important; 
+  }
+  .bloc5 {
+    width: 100%;
+    height: 800px;
+    background-color: #FAF9F7;
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    /* border:1px solid #16f534  ;  */
+  }
+  
+  .trait5 {
+    width: 280px;
+    height: 7px;
+    /* margin: 10px 0px 0px 460px; */
+    background-color: #E62D35;
+  }
+  .apprenants {
+    font-size: 2.5em;
+    font-weight: bold;
+    /* margin: 180px 0px 0px 400px; */
+  }
+  .imgg2 {
+    width: 70%;
+    /* margin: 30px 0px 30px 180px; */
+  }
+  .temoign{
+    background-color:#bcb9b9 ;
+    margin-top: 10px;
+  }
+    
+    .footer {
+      width: 100%;
+      height: 400px;
+      background-color: black;
+      color: white;
+      margin-top: -150px;
+    }
+    .footext {
+      display: flex;
+      justify-content: center;
+      color: white;
+      text-align: center;
+      
+    }
+    
+    .footbas {
+      display: flex;
+      gap: 600px;
+      margin-top: 150px;
+    }
+    .logoif {
+      width: 250px;
+    }
+    
